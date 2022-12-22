@@ -1,4 +1,4 @@
-FROM lorisleiva/laravel-docker:8.0
+FROM lorisleiva/laravel-docker:8.2
 
 ADD entrypoint.sh /entrypoint.sh
 
